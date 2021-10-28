@@ -1,0 +1,28 @@
+{
+    "name": "vscode-base-pack",
+    "displayName": "vscode base pack",
+    "description": "vscode基础扩展包",
+    "publisher": "anaer",
+    "version": "0.0.2",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/anaer/vscode-base-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "alefragnani.bookmarks",
+        "gracie-wdy.eyes-love",
+        "sleistner.vscode-fileutils",
+        "eamodio.gitlens",
+        "kisstkondoros.vscode-gutter-preview",
+        "vscodevim.vim",
+        "EditorConfig.EditorConfig",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "GitHub.copilot"
+    ]
+}
