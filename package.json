@@ -3,7 +3,7 @@
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
     "publisher": "anaer",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-base-pack.git"
@@ -25,6 +25,7 @@
         "VisualStudioExptTeam.vscodeintellicode",
         "GitHub.copilot",
         "esbenp.prettier-vscode",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "chen86860.json-sorter"
     ]
 }

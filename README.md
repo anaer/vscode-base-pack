@@ -14,6 +14,8 @@
     - 代码格式化
 - [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     - 拼写检查
+- [📦 JSON Sorter](https://marketplace.visualstudio.com/items?itemName=chen86860.json-sorter)
+    - JSON排序
 
 ## Git相关
 
