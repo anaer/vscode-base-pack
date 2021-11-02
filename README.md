@@ -10,6 +10,10 @@
     - 边列上显示图片预览小图, 方便检查图片链接是否正常
 - [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
     - 代码补全
+- [📦 Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+    - 代码格式化
+- [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+    - 拼写检查
 
 ## Git相关
 
