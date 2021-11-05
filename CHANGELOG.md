@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5(20211105)
+
+- 添加humao.rest-client
+
 ## 0.0.4(20211102)
 
 - 添加json sorter

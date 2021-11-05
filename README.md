@@ -34,3 +34,5 @@
     - 统一配置
 - [📦 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
     - 自动补全
+- [📦 REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+    - 类似postman, http接口请求
