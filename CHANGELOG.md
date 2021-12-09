@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.6(20211209)
+
+- 添加WakaTime
+
+
 ## 0.0.5(20211105)
 
 - 添加humao.rest-client

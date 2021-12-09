@@ -36,3 +36,5 @@
     - 自动补全
 - [📦 REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
     - 类似postman, http接口请求
+- [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+    - 统计编码时间
