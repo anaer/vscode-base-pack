@@ -40,3 +40,5 @@
   - 类似 postman, http 接口请求
 - [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
   - 统计编码时间
+- [📦 RSS](https://marketplace.visualstudio.com/items?itemName=luyuhuang.rss)
+  - rss 阅读器

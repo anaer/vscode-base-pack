@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.8(20220121)
+
+- 添加 rss 阅读器
+
 ## 0.0.7(20220120)
 
 - 添加 git Config User profiles
