@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.9(20220411)
+
+- 移除使用较少的扩展: alefragnani.bookmarks, chen86860.json-sorter, luyuhuang.rss
+
 ## 0.0.8(20220121)
 
 - 添加 rss 阅读器

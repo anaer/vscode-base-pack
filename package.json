@@ -3,7 +3,7 @@
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
     "publisher": "anaer",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-base-pack.git"
@@ -15,7 +15,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "alefragnani.bookmarks",
         "gracie-wdy.eyes-love",
         "sleistner.vscode-fileutils",
         "eamodio.gitlens",
@@ -27,9 +26,7 @@
         "esbenp.prettier-vscode",
         "streetsidesoftware.code-spell-checker",
         "humao.rest-client",
-        "chen86860.json-sorter",
         "WakaTime.vscode-wakatime",
-        "onlyutkarsh.git-config-user-profiles",
-        "luyuhuang.rss"
+        "onlyutkarsh.git-config-user-profiles"
     ]
 }

@@ -14,8 +14,6 @@
   - 代码格式化
 - [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   - 拼写检查
-- [📦 JSON Sorter](https://marketplace.visualstudio.com/items?itemName=chen86860.json-sorter)
-  - JSON 排序
 
 ## Git 相关
 
@@ -26,8 +24,6 @@
 
 ## 其他
 
-- [📦 Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-  - 书签管理
 - [📦 File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
   - 文件工具, 主要使用文件重命名功能
 - [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
@@ -40,5 +36,3 @@
   - 类似 postman, http 接口请求
 - [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
   - 统计编码时间
-- [📦 RSS](https://marketplace.visualstudio.com/items?itemName=luyuhuang.rss)
-  - rss 阅读器
