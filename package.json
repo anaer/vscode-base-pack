@@ -3,7 +3,7 @@
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
     "publisher": "anaer",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-base-pack.git"
@@ -15,7 +15,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "gracie-wdy.eyes-love",
         "sleistner.vscode-fileutils",
         "eamodio.gitlens",
         "kisstkondoros.vscode-gutter-preview",

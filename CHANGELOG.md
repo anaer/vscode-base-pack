@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.0(20220412)
+
+- 移除 eyes-love
+
 ## 0.0.9(20220411)
 
 - 移除使用较少的扩展: alefragnani.bookmarks, chen86860.json-sorter, luyuhuang.rss
