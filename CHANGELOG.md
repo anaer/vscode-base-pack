@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.1(20220513)
+
+- 移除 RestClient, 使用 Thunder Client
+- 移除 WakaTime, 用的不多
+
 ## 0.1.0(20220412)
 
 - 移除 eyes-love

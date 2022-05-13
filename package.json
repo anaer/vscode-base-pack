@@ -3,7 +3,7 @@
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
     "publisher": "anaer",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-base-pack.git"
@@ -24,8 +24,6 @@
         "GitHub.copilot",
         "esbenp.prettier-vscode",
         "streetsidesoftware.code-spell-checker",
-        "humao.rest-client",
-        "WakaTime.vscode-wakatime",
         "onlyutkarsh.git-config-user-profiles"
     ]
 }

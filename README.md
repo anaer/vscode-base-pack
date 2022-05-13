@@ -30,12 +30,12 @@
   - 统一配置
 - [📦 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
   - 自动补全
-- [📦 REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-  - 类似 postman, http 接口请求
-- [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
-  - 统计编码时间
 
 ## 待定
 
 - [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
   - 护眼主题
+- [📦 REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+  - 类似 postman, http 接口请求
+- [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+  - 统计编码时间
