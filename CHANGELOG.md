@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.2(20220609)
+
+- 调整使用 anaer.git-user-profiles-config
+
 ## 0.1.1(20220513)
 
 - 移除 RestClient, 使用 Thunder Client

@@ -19,7 +19,7 @@
 
 - [📦 GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - Git 工具, 功能强大
-- [📦 git Config User profiles](https://marketplace.visualstudio.com/items?itemName=onlyutkarsh.git-config-user-profiles)
+- [📦 git User profiles Config](https://marketplace.visualstudio.com/items?itemName=anaer.git-user-profiles-config)
   - Git 配置仓库对应用户信息(name, email)
 
 ## 其他
