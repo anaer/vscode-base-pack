@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.3(20220613)
+
+- 去掉 Visual Studio IntelliCode, 跟 GitHub Copilot 功能重了
+
 ## 0.1.2(20220609)
 
 - 调整使用 anaer.git-user-profiles-config

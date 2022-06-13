@@ -6,21 +6,19 @@
 
 - [📦 Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
   - vim 插件
-- [📦 Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
-  - 边列上显示图片预览小图, 方便检查图片链接是否正常
-- [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-  - 代码补全
 - [📦 Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - 代码格式化
 - [📦 Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   - 拼写检查
+- [📦 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+  - 自动补全
 
 ## Git 相关
 
 - [📦 GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - Git 工具, 功能强大
-- [📦 git User profiles Config](https://marketplace.visualstudio.com/items?itemName=anaer.git-user-profiles-config)
-  - Git 配置仓库对应用户信息(name, email)
+- [📦 Git User Profiles Config](https://marketplace.visualstudio.com/items?itemName=anaer.git-user-profiles-config)
+  - Git 用户配置, 可按项目配置不同的用户
 
 ## 其他
 
@@ -28,8 +26,8 @@
   - 文件工具, 主要使用文件重命名功能
 - [📦 EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   - 统一配置
-- [📦 GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-  - 自动补全
+- [📦 Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+  - 边列上显示图片预览小图, 方便检查图片链接是否正常
 
 ## 待定
 
@@ -39,3 +37,5 @@
   - 类似 postman, http 接口请求
 - [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
   - 统计编码时间
+- [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+  - 代码补全
