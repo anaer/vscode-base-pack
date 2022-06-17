@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.4(20220617)
+
+- 试了下 还是得 eyes-love, 默认主题看久了 眼花
+
 ## 0.1.3(20220613)
 
 - 去掉 Visual Studio IntelliCode, 跟 GitHub Copilot 功能重了

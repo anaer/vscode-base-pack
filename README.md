@@ -28,11 +28,11 @@
   - 统一配置
 - [📦 Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
   - 边列上显示图片预览小图, 方便检查图片链接是否正常
+- [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
+  - 护眼主题
 
 ## 待定
 
-- [📦 eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
-  - 护眼主题
 - [📦 REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
   - 类似 postman, http 接口请求
 - [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
