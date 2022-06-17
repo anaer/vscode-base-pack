@@ -2,8 +2,8 @@
     "name": "vscode-base-pack",
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
+    "version": "0.1.5",
     "publisher": "anaer",
-    "version": "0.1.4",
     "icon": "icon.png",
     "repository": {
         "url": "https://github.com/anaer/vscode-base-pack.git"
@@ -24,6 +24,6 @@
         "esbenp.prettier-vscode",
         "streetsidesoftware.code-spell-checker",
         "anaer.git-user-profiles-config",
-        "gracie-wdy.eyes-love"
+        "anaer.eyeshield"
     ]
 }
