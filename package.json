@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -24,6 +24,8 @@
         "streetsidesoftware.code-spell-checker",
         "anaer.git-user-profiles-config",
         "anaer.eyeshield",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "GitHub.remotehub",
+        "ms-vscode.remote-repositories"
     ]
 }

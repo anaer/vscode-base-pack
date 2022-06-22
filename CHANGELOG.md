@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.7(20220622)
+
+- 添加 GitHub.remotehub, ms-vscode.remote-repositories
+
 ## 0.1.6(20220622)
 
 - 去掉 GitHub.copilot, 试用到期了

@@ -18,7 +18,12 @@
 - [<img src="https://eamodio.gallery.vsassets.io/_apis/public/gallery/publisher/eamodio/extension/gitlens/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - Git 工具, 功能强大
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/git-user-profiles-config/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Git User Profiles Config](https://marketplace.visualstudio.com/items?itemName=anaer.git-user-profiles-config)
+
   - Git 用户配置, 可按项目配置不同的用户
+
+- [<img src="https://GitHub.gallery.vsassets.io/_apis/public/gallery/publisher/GitHub/extension/remotehub/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+- [<img src="https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/remote-repositories/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)
+  - 浏览 GitHub 远程仓库
 
 ## 其他
 
