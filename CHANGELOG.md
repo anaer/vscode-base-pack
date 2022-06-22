@@ -1,9 +1,14 @@
 # Change Log
 
+## 0.1.6(20220622)
+
+- 去掉 GitHub.copilot, 试用到期了
+- 使用 VisualStudioExptTeam.vscodeintellicode
+
 ## 0.1.5(20220617)
 
 - 更换护眼主题 eyeshield
-- 修改README介绍中的图标
+- 修改 README 介绍中的图标
 
 ## 0.1.4(20220617)
 

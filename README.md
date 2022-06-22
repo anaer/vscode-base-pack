@@ -10,8 +10,8 @@
   - 代码格式化
 - [<img src="https://streetsidesoftware.gallery.vsassets.io/_apis/public/gallery/publisher/streetsidesoftware/extension/code-spell-checker/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   - 拼写检查
-- [<img src="https://GitHub.gallery.vsassets.io/_apis/public/gallery/publisher/GitHub/extension/copilot/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-  - 自动补全
+- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+  - 代码补全
 
 ## Git 相关
 
@@ -37,7 +37,7 @@
   - 类似 postman, http 接口请求
 - [<img src="https://WakaTime.gallery.vsassets.io/_apis/public/gallery/publisher/WakaTime/extension/vscode-wakatime/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
   - 统计编码时间
-- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-  - 代码补全
 - [<img src="https://gracie-wdy.gallery.vsassets.io/_apis/public/gallery/publisher/gracie-wdy/extension/eyes-love/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> eyes-love](https://marketplace.visualstudio.com/items?itemName=gracie-wdy.eyes-love)
   - 护眼主题
+- [<img src="https://GitHub.gallery.vsassets.io/_apis/public/gallery/publisher/GitHub/extension/copilot/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+  - 自动补全, 试用到期了

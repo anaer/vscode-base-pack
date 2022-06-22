@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -20,10 +20,10 @@
         "kisstkondoros.vscode-gutter-preview",
         "vscodevim.vim",
         "EditorConfig.EditorConfig",
-        "GitHub.copilot",
         "esbenp.prettier-vscode",
         "streetsidesoftware.code-spell-checker",
         "anaer.git-user-profiles-config",
-        "anaer.eyeshield"
+        "anaer.eyeshield",
+        "VisualStudioExptTeam.vscodeintellicode"
     ]
 }
