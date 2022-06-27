@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "vscode base pack",
     "description": "vscode基础扩展包",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -26,6 +26,7 @@
         "anaer.eyeshield",
         "VisualStudioExptTeam.vscodeintellicode",
         "GitHub.remotehub",
-        "ms-vscode.remote-repositories"
+        "ms-vscode.remote-repositories",
+        "alefragnani.Bookmarks"
     ]
 }

@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.8(20220627)
+
+- 添加 Bookmarks 书签
+
 ## 0.1.7(20220622)
 
 - 添加 GitHub.remotehub, ms-vscode.remote-repositories

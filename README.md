@@ -35,6 +35,8 @@
   - 边列上显示图片预览小图, 方便检查图片链接是否正常
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/eyeshield/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> eyeshield](https://marketplace.visualstudio.com/items?itemName=anaer.eyeshield)
   - 护眼主题
+- [<img src="https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/Bookmarks/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+  - 书签
 
 ## 待定
 
