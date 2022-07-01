@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.9(20220701)
+
+- 添加 all autocomplete
+- 取消 intellicode
+
 ## 0.1.8(20220627)
 
 - 添加 Bookmarks 书签

@@ -1,8 +1,8 @@
 {
     "name": "vscode-base-pack",
-    "displayName": "vscode base pack",
-    "description": "vscode基础扩展包",
-    "version": "0.1.8",
+    "displayName": "VSCode Base Pack",
+    "description": "VSCode基础扩展包",
+    "version": "0.1.9",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -24,9 +24,9 @@
         "streetsidesoftware.code-spell-checker",
         "anaer.git-user-profiles-config",
         "anaer.eyeshield",
-        "VisualStudioExptTeam.vscodeintellicode",
         "GitHub.remotehub",
         "ms-vscode.remote-repositories",
-        "alefragnani.Bookmarks"
+        "alefragnani.Bookmarks",
+        "Atishay-Jain.All-Autocomplete"
     ]
 }

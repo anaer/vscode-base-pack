@@ -10,8 +10,8 @@
   - 代码格式化
 - [<img src="https://streetsidesoftware.gallery.vsassets.io/_apis/public/gallery/publisher/streetsidesoftware/extension/code-spell-checker/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   - 拼写检查
-- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-  - 代码补全
+- [<img src="https://Atishay-Jain.gallery.vsassets.io/_apis/public/gallery/publisher/Atishay-Jain/extension/All-Autocomplete/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> All Autocomplete](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete)
+  - Autocomplete from open files for VSCode
 
 ## Git 相关
 
@@ -48,3 +48,5 @@
   - 护眼主题
 - [<img src="https://GitHub.gallery.vsassets.io/_apis/public/gallery/publisher/GitHub/extension/copilot/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
   - 自动补全, 试用到期了
+- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+  - 代码补全
