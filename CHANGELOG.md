@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.10(20220713)
+
+- 添加 Color Highlight
+
 ## 0.1.9(20220701)
 
 - 添加 all autocomplete

@@ -37,6 +37,8 @@
   - 护眼主题
 - [<img src="https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/Bookmarks/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
   - 书签
+- [<img src="https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/color-highlight/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+  - 编辑器中颜色编码显示颜色
 
 ## 待定
 
