@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.11(20220714)
+
+- 添加 BenRogersWPG.websearchengine
+
 ## 0.1.10(20220713)
 
 - 添加 Color Highlight

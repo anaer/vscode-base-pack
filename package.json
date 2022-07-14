@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "VSCode Base Pack",
     "description": "VSCode基础扩展包",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -28,6 +28,7 @@
         "ms-vscode.remote-repositories",
         "alefragnani.Bookmarks",
         "Atishay-Jain.All-Autocomplete",
-        "naumovs.color-highlight"
+        "naumovs.color-highlight",
+        "BenRogersWPG.websearchengine"
     ]
 }
