@@ -12,6 +12,8 @@
   - 拼写检查
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
   - 代码补全
+- [<img src="https://aminer.gallery.vsassets.io/_apis/public/gallery/publisher/aminer/extension/codegeex/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> CodeGeeX](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex)
+  - 编程助手, 代码补全, 类似Github Copilot, 目前免费
 
 ## Git 相关
 
@@ -28,12 +30,8 @@
   - 统一配置
 - [<img src="https://kisstkondoros.gallery.vsassets.io/_apis/public/gallery/publisher/kisstkondoros/extension/vscode-gutter-preview/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
   - 边列上显示图片预览小图, 方便检查图片链接是否正常
-- [<img src="https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/color-highlight/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-  - 编辑器中颜色编码显示颜色
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/eyeshield/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> eyeshield](https://marketplace.visualstudio.com/items?itemName=anaer.eyeshield)
   - 护眼主题
-- [<img src="https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/Bookmarks/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-  - 书签
 
 ## 待定
 
@@ -52,3 +50,7 @@
 - [<img src="https://GitHub.gallery.vsassets.io/_apis/public/gallery/publisher/GitHub/extension/remotehub/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
 - [<img src="https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/remote-repositories/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Remote Repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)
   - 浏览 GitHub 远程仓库
+- [<img src="https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/Bookmarks/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+  - 书签 (用的少)
+- [<img src="https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/color-highlight/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+  - 编辑器中颜色编码显示颜色 (场景较少, 有需要时再单独启用)

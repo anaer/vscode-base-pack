@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.13(20230227)
+
+- 添加codegeex
+- 去掉bookmark, color-highlight
+
 ## 0.1.12(20220727)
 
 - 去掉使用频率不高的扩展
