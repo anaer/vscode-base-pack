@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.14(20230313)
+
+- 使用GitLess替换GitLens
+
 ## 0.1.13(20230227)
 
 - 添加codegeex

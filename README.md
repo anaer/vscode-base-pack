@@ -17,8 +17,8 @@
 
 ## Git 相关
 
-- [<img src="https://eamodio.gallery.vsassets.io/_apis/public/gallery/publisher/eamodio/extension/gitlens/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-  - Git 工具, 功能强大
+- [<img src="https://eamodio.gallery.vsassets.io/_apis/public/gallery/publisher/eamodio/extension/gitlens/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitLess](https://marketplace.visualstudio.com/items?itemName=maattdd.gitless)
+  - Git 工具, GitLens的fork版, 无后期付费功能
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/git-user-profiles-config/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Git User Profiles Config](https://marketplace.visualstudio.com/items?itemName=anaer.git-user-profiles-config)
   - Git 用户配置, 可按项目配置不同的用户
 
@@ -54,3 +54,5 @@
   - 书签 (用的少)
 - [<img src="https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/color-highlight/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
   - 编辑器中颜色编码显示颜色 (场景较少, 有需要时再单独启用)
+- [<img src="https://eamodio.gallery.vsassets.io/_apis/public/gallery/publisher/eamodio/extension/gitlens/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - Git 工具, 功能强大
