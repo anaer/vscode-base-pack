@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.15(20230323)
+
+- 使用codeium替代codegeex
+- 去掉code-spell-checker, vscodeintellicode
+
 ## 0.1.14(20230313)
 
 - 使用GitLess替换GitLens
