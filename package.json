@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "VSCode Base Pack",
     "description": "VSCode基础扩展包",
-    "version": "0.1.15",
+    "version": "0.1.16",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -22,7 +22,6 @@
         "esbenp.prettier-vscode",
         "anaer.git-user-profiles-config",
         "anaer.eyeshield",
-        "maattdd.gitless",
-        "codeium.codeium"
+        "maattdd.gitless"
     ]
 }
