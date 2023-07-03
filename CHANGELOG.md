@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.17(20230703)
+
+- 使用vscodeintellicode
+
 ## 0.1.16(20230626)
 
 - 去掉Codeium (PS: 需要时单独启用, 每开启一个VSCode 都会启动两个language_server_windows_x64.exe进程, 窗口过多时会导致系统卡顿.)

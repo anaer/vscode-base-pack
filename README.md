@@ -8,6 +8,8 @@
   - vim 插件
 - [<img src="https://esbenp.gallery.vsassets.io/_apis/public/gallery/publisher/esbenp/extension/prettier-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - 代码格式化
+- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+  - 代码补全
 
 ## Git 相关
 
@@ -54,7 +56,5 @@
   - 编程助手, 代码补全, 类似Github Copilot, 目前免费
 - [<img src="https://streetsidesoftware.gallery.vsassets.io/_apis/public/gallery/publisher/streetsidesoftware/extension/code-spell-checker/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
   - 拼写检查
-- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-  - 代码补全
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
   - 代码补全
