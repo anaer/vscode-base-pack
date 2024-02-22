@@ -4,8 +4,8 @@
 
 ## 编辑相关
 
-- [<img src="https://vscodevim.gallery.vsassets.io/_apis/public/gallery/publisher/vscodevim/extension/vim/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-  - vim 插件
+- [<img src="https://asvetliakov.gallery.vsassets.io/_apis/public/gallery/publisher/asvetliakov/extension/vscode-neovim/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim)
+  - neovim 插件
 - [<img src="https://esbenp.gallery.vsassets.io/_apis/public/gallery/publisher/esbenp/extension/prettier-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - 代码格式化
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
@@ -58,3 +58,5 @@
   - 拼写检查
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
   - 代码补全
+- [<img src="https://vscodevim.gallery.vsassets.io/_apis/public/gallery/publisher/vscodevim/extension/vim/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+  - vim 插件

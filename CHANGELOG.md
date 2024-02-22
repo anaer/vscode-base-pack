@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.18(20240222)
+
+- 使用neovim插件替换vim
+
 ## 0.1.17(20230703)
 
 - 使用vscodeintellicode

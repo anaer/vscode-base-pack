@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "VSCode Base Pack",
     "description": "VSCode基础扩展包",
-    "version": "0.1.17",
+    "version": "0.1.18",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -17,12 +17,12 @@
     "extensionPack": [
         "sleistner.vscode-fileutils",
         "kisstkondoros.vscode-gutter-preview",
-        "vscodevim.vim",
         "EditorConfig.EditorConfig",
         "esbenp.prettier-vscode",
         "anaer.git-user-profiles-config",
         "anaer.eyeshield",
         "maattdd.gitless",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "asvetliakov.vscode-neovim"
     ]
 }
