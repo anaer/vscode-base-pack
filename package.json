@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "VSCode Base Pack",
     "description": "VSCode基础扩展包",
-    "version": "0.1.18",
+    "version": "0.1.19",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -23,6 +23,7 @@
         "anaer.eyeshield",
         "maattdd.gitless",
         "VisualStudioExptTeam.vscodeintellicode",
-        "asvetliakov.vscode-neovim"
+        "vscodevim.vim",
+        "codeium.codeium"
     ]
 }
