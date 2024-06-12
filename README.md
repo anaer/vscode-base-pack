@@ -4,14 +4,10 @@
 
 ## 编辑相关
 
-- [<img src="https://vscodevim.gallery.vsassets.io/_apis/public/gallery/publisher/vscodevim/extension/vim/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
-  - vim 插件
 - [<img src="https://esbenp.gallery.vsassets.io/_apis/public/gallery/publisher/esbenp/extension/prettier-vscode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - 代码格式化
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
   - 代码补全
-- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
-  - AI代码补全, 新版还能用用
 
 ## Git 相关
 
@@ -24,10 +20,6 @@
 
 - [<img src="https://sleistner.gallery.vsassets.io/_apis/public/gallery/publisher/sleistner/extension/vscode-fileutils/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
   - 文件工具, 主要使用文件重命名功能
-- [<img src="https://EditorConfig.gallery.vsassets.io/_apis/public/gallery/publisher/EditorConfig/extension/EditorConfig/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-  - 统一配置
-- [<img src="https://kisstkondoros.gallery.vsassets.io/_apis/public/gallery/publisher/kisstkondoros/extension/vscode-gutter-preview/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
-  - 边列上显示图片预览小图, 方便检查图片链接是否正常
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/eyeshield/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> eyeshield](https://marketplace.visualstudio.com/items?itemName=anaer.eyeshield)
   - 护眼主题
 
@@ -60,3 +52,11 @@
   - 拼写检查
 - [<img src="https://asvetliakov.gallery.vsassets.io/_apis/public/gallery/publisher/asvetliakov/extension/vscode-neovim/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim)
   - neovim 插件
+- [<img src="https://vscodevim.gallery.vsassets.io/_apis/public/gallery/publisher/vscodevim/extension/vim/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+  - vim 插件
+- [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/codeium/extension/codeium/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Codeiume](https://marketplace.visualstudio.com/items?itemName=codeium.codeium)
+  - AI代码补全, 新版还能用用
+- [<img src="https://EditorConfig.gallery.vsassets.io/_apis/public/gallery/publisher/EditorConfig/extension/EditorConfig/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - 统一配置
+- [<img src="https://kisstkondoros.gallery.vsassets.io/_apis/public/gallery/publisher/kisstkondoros/extension/vscode-gutter-preview/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+  - 边列上显示图片预览小图, 方便检查图片链接是否正常
