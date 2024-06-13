@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "VSCode Base Pack",
     "description": "VSCode基础扩展包",
-    "version": "24.612.1603",
+    "version": "24.613.1032",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -15,7 +15,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "sleistner.vscode-fileutils",
         "esbenp.prettier-vscode",
         "anaer.git-user-profiles-config",
         "anaer.eyeshield",

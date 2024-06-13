@@ -1,5 +1,9 @@
 # Change Log
 
+## 24.613.1032
+
+- 删除fileutils
+
 ## 24.612.1602
 
 - 启用neovim

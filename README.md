@@ -20,8 +20,6 @@
 
 ## 其他
 
-- [<img src="https://sleistner.gallery.vsassets.io/_apis/public/gallery/publisher/sleistner/extension/vscode-fileutils/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-  - 文件工具, 主要使用文件重命名功能
 - [<img src="https://anaer.gallery.vsassets.io/_apis/public/gallery/publisher/anaer/extension/eyeshield/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> eyeshield](https://marketplace.visualstudio.com/items?itemName=anaer.eyeshield)
   - 护眼主题
 
@@ -60,3 +58,5 @@
   - 统一配置
 - [<img src="https://kisstkondoros.gallery.vsassets.io/_apis/public/gallery/publisher/kisstkondoros/extension/vscode-gutter-preview/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
   - 边列上显示图片预览小图, 方便检查图片链接是否正常
+- [<img src="https://sleistner.gallery.vsassets.io/_apis/public/gallery/publisher/sleistner/extension/vscode-fileutils/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+  - 文件工具, 主要使用文件重命名功能
