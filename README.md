@@ -10,6 +10,8 @@
   - 代码格式化
 - [<img src="https://VisualStudioExptTeam.gallery.vsassets.io/_apis/public/gallery/publisher/VisualStudioExptTeam/extension/vscodeintellicode/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" /> Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
   - 代码补全
+- [<img src="https://EditorConfig.gallery.vsassets.io/_apis/public/gallery/publisher/EditorConfig/extension/EditorConfig/latest/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" height="16px" />EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+  - 格式化配置
 
 ## Git 相关
 
